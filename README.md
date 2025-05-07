@@ -10,5 +10,12 @@ Spring Data Mongodb
    ![image alt](https://github.com/sudhir1825/EmployeeApi/blob/5e0c94aae5dd8d56c7efdc596add76d8fcd878c2/Screenshot%202025-05-07%20at%201.47.02%20PM.png)
 
    
-3. ![image alt]()
-6. ![image alt]()
+3. Endpoint - "/display/<user id> used to display a specific user.
+
+  ![image alt](https://github.com/sudhir1825/EmployeeApi/blob/ca49e25e82a4fb9db0f71e65edfe3e32f6464ba4/Screenshot%202025-05-07%20at%201.47.23%20PM.png)
+
+  
+4. MongoDB - Database is used(Screenshot of MongoDb compass GUI)
+
+
+   ![image alt]()
